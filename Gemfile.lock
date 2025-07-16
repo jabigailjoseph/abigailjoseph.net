@@ -32,6 +32,7 @@ GEM
     colorator (1.1.0)
     concurrent-ruby (1.3.5)
     connection_pool (2.5.3)
+    csv (3.3.5)
     drb (2.2.3)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
@@ -145,6 +146,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  csv
   google-protobuf (>= 3.25.0)
   jekyll (~> 4.3.2)
   jekyll-text-theme!
