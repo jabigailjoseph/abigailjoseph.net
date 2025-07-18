@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Resume
+title: 
 permalink: /resume/
 ---
 
