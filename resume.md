@@ -80,7 +80,7 @@ NSF Engineering Research Center for Smart Streetscapes (CS3)<br>
 #### Leadership Experience
 **Treasurer - Society of Women Engineers, Florida Atlantic University section** *(12/2023 - 05/2024)*<br>
 - Managed budgeting and fundraising, overseeing 300% membership growth (from ~20 to 80+ registered members)<br>
-- Coordinated sponsorships and organized student travel to the organization's national conference<br>
+- Coordinated sponsorships and organized student travel to the organization's national conference<br> <br>
 
 
 
