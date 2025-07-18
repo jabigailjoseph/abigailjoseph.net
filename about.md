@@ -30,10 +30,10 @@ Abigail is a data analyst and aspiring biostatistician. She completed her Bachel
 
 In addition, Abigail is a current researcher in the FIU-CGR Genomics Scholarship program. She also serves as a Graduate Assistant at FIU's Center for the Advancement of Teaching, helping cultivate evidence-based learning practices.
 
-When she's not studying or researching, Abigail can be found readig, writing, playing The Sims FreePlay, or nurturing her plants.
+When she's not studying or researching, Abigail can be found readig, writing, playing The Sims FreePlay, caring for her her plants, or dancing attendance on her cat.
 
 
 Abigail can be found at:
 - [LinkedIn](https://www.linkedin.com/in/abigailjoseph-data)
 - [GitHub](https://github.com/jabigailjoseph)
-- ajoseph01303@gmail.com
+- **ajoseph01303@gmail.com**
