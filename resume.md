@@ -15,11 +15,11 @@ ___
 📥 ajoseph01303@gmail.com<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/abigailjoseph-data)<br>
 🔗 [GitHub](https://github.com/jabigailjoseph)<br>
-___
+
 #### Education
 Florida International University | Master of Public Health (MPH) in Biostatistics *(expected 05/2027)*<br>
 Florida Atlantic University | BS Data Science and Analytics *(05/2021 - 05/2025)*<br>
-___
+
 #### Professional Experience
 **FIU-CGR Genomic Research Scholar** *(08/2025 - present)*<br>Florida International University Center for Genomic Research<br>
 - Awarded a competitive research scholarship to support training in genomic research<br>
@@ -57,7 +57,6 @@ NSF Engineering Research Center for Smart Streetscapes (CS3)<br>
 - Participated in a nine-week summer research REU program<br>
 - Presented research at the Florida Undergraduate Research Conference (FURC) and the National Conference for Undergraduate Research (NCUR) in 2024<br>
 *Tools & Technologies*: Unity (C#), Cesium, Adobe Mixamo<br>
-___
 
 #### Projects
 **Predicting Childbearing Likelihood** | 🔗 [GitHub](https://github.com/jabigailjoseph/childbearing_predictors)<br>
@@ -77,7 +76,6 @@ ___
 - Trained a convolutional neural network to classify invasive Florida Australian pine (Casuarina) trees to support conservation and disaster planning<br>
 - Created spatial heatmaps and proposed object detection strategies for ecological risk assessment<br>
 *Skills*: Python, AlexNet CNN, image classification, object detection simulation, deep learning<br>
-___
 
 #### Leadership Experience
 **Treasurer - Society of Women Engineers, Florida Atlantic University section** *(12/2023 - 05/2024)*<br>
