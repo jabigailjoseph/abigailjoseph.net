@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       # About
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -26,14 +26,11 @@ titles:
 key: page-about
 ---
 
-Abigail is a data analyst and aspiring biostatistician. She completed her Bachelor of Science in Data Science and Anaytics with a minor in Artificial Intelligence at Florida Atlantic University, and she is currently earning her Master of Public Health in Biostatistics at Florida International University.
+Abigail Joseph is a data analyst and aspiring biostatistician. She completed her Bachelor of Science in Data Science and Anaytics with a minor in Artificial Intelligence at Florida Atlantic University, and she is currently earning her Master of Public Health in Biostatistics at Florida International University.
 
-In addition, Abigail is a current researcher in the FIU-CGR Genomics Scholarship program. She also serves as a Graduate Assistant at FIU's Center for the Advancement of Teaching, helping cultivate evidence-based learning practices.
+Abigail is a current researcher in the FIU-CGR Genomics scholarship research program. She also serves as a Graduate Assistant at FIU's Center for the Advancement of Teaching, helping cultivate evidence-based learning practices.
 
-When she's not studying or researching, Abigail can be found readig, writing, playing The Sims FreePlay, caring for her her plants, or dancing attendance on her cat.
+When she's not studying or researching, Abigail can be found reading, writing, playing The Sims FreePlay, caring for her her plants, or dancing attendance on her cat. <br> <br>
 
-
-Abigail can be found at:
-- [LinkedIn](https://www.linkedin.com/in/abigailjoseph-data)
-- [GitHub](https://github.com/jabigailjoseph)
-- **ajoseph01303@gmail.com**
+For more information:
+- [Abigail's LinkedIn](https://www.linkedin.com/in/abigailjoseph-data) <br> <br> 
