@@ -4,15 +4,22 @@ title:
 permalink: /resume/
 ---
 
+*Jump to:*<br><br>
+[Education](#education)<br>
+[Professional Experience](#professional-experience)<br>
+[Projects](#projects)<br>
+[Leadership Experience](#leadership-experience)<br>
+___
 ### Abigail Joseph
-Miami-Fort Lauderdale area | ajoseph01303@gmail.com
-
-[LinkedIn](https://www.linkedin.com/in/abigailjoseph-data) | [GitHub](https://github.com/jabigailjoseph)
-
+📍 Miami-Fort Lauderdale area<br>
+📥 ajoseph01303@gmail.com<br>
+🔗 [LinkedIn](https://www.linkedin.com/in/abigailjoseph-data)<br>
+🔗 [GitHub](https://github.com/jabigailjoseph)<br>
+___
 #### Education
 Florida International University | Master of Public Health (MPH) in Biostatistics *(expected 05/2027)*<br>
-Florida Atlantic University | BS Data Science and Analytics *(05/2021 - 05/2025)*
-
+Florida Atlantic University | BS Data Science and Analytics *(05/2021 - 05/2025)*<br>
+___
 #### Professional Experience
 **FIU-CGR Genomic Research Scholar** *(08/2025 - present)*<br>Florida International University Center for Genomic Research<br>
 - Awarded a competitive research scholarship to support training in genomic research<br>
@@ -50,14 +57,32 @@ NSF Engineering Research Center for Smart Streetscapes (CS3)<br>
 - Participated in a nine-week summer research REU program<br>
 - Presented research at the Florida Undergraduate Research Conference (FURC) and the National Conference for Undergraduate Research (NCUR) in 2024<br>
 *Tools & Technologies*: Unity (C#), Cesium, Adobe Mixamo<br>
+___
 
-#### Relevant Projects
-**Predicting Childbearing Likelihood** | [GitHub](hhttps://github.com/jabigailjoseph/childbearing_predictors)<br>
+#### Projects
+**Predicting Childbearing Likelihood** | 🔗 [GitHub](https://github.com/jabigailjoseph/childbearing_predictors)<br>
 - Developed a predictive model using multiple logistic regression on 4,500+ survey responses from the CDC's 2015 National Survey of Family Growth (NSFG) to predict the likelihood of childbearing<br>
 - Achieved model AUC score of 0.857<br>
 *Skills*: R, logistic regression, ROC/AUC analysis, data visualization<br>
 
-**Personal Website** | [GitHub](https://github.com/jabigailjoseph/abigailjoseph.com)<br>
-https://abigailjoseph.netlify.app/ <br>
+**Personal Website** | 🔗 [GitHub](https://github.com/jabigailjoseph/abigailjoseph.com)<br>
+[abigailjoseph.com](https://abigailjoseph.netlify.app/) <br>
+- Designed and deployed a secure, version-controlled personal website to showcase resume, bio, and blog about biostatistics, education, and career<br>
+- Optimized UI/UX by customizing a template to create a clean, professional, and user-friendly interface<br>
+- Implemented a responsive site architecture with markdown-based blog, resume, etc. pages<br>
+- Resolved build and deployment issues by debugging multiple different dependencies<br> 
+*Skills*: Git/Github (version control), SCSS, Markdown, HTML, VS Code, command-line tools, dependencies (Ruby gems, Node JS)<br>
+
+**Australian Pine Classification for Conservation** | 🔗 [GitHub](https://github.com/jabigailjoseph/Florida-Pine-Rescue)<br>
+- Trained a convolutional neural network to classify invasive Florida Australian pine (Casuarina) trees to support conservation and disaster planning<br>
+- Created spatial heatmaps and proposed object detection strategies for ecological risk assessment<br>
+*Skills*: Python, AlexNet CNN, image classification, object detection simulation, deep learning<br>
+___
+
+#### Leadership Experience
+**Treasurer - Society of Women Engineers, Florida Atlantic University section** *(12/2023 - 05/2024)*<br>
+- Managed budgeting and fundraising, overseeing 300% membership growth (from ~20 to 80+ registered members)<br>
+- Coordinated sponsorships and organized student travel to the organization's national conference<br>
+
 
 
