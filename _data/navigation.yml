@@ -1,15 +1,13 @@
 header:
-  - titles:
-      en: Blog
-    url: /blog/
-
-  - titles:
-      en: Resume
-    url: /resume/
+ 
 
   - titles:
       en: About
     url: /about/
+
+  - titles:
+      en: Resume
+    url: /resume/
 
   - titles:
       en: Contact

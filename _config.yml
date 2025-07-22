@@ -28,7 +28,7 @@ description: > # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: eng # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: America/New_York # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
@@ -48,8 +48,8 @@ author:
   #medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   #zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   #douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : https://www.linkedin.com/in/abigailjoseph-data/ # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : https://github.com/jabigailjoseph # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  linkedin  : abigailjoseph-data # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : jabigailjoseph # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   #npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
