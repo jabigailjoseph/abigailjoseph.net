@@ -30,7 +30,7 @@ Abigail Joseph is a data analyst and aspiring biostatistician. She completed her
 
 Abigail is a current researcher in the FIU-CGR Genomics scholarship research program. She also serves as a Graduate Assistant at FIU's Center for the Advancement of Teaching, helping cultivate evidence-based learning practices.
 
-When she's not studying or researching, Abigail can be found reading, writing, playing The Sims FreePlay, caring for her her plants, or dancing attendance on her cat. <br> <br>
+When she's not studying or researching, Abigail can be found reading, writing, playing The Sims FreePlay, or caring for her her plants. <br> <br>
 
 For more information:
 - [Abigail's LinkedIn](https://www.linkedin.com/in/abigailjoseph-data) <br> <br> 
