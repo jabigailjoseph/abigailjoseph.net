@@ -30,7 +30,7 @@ Florida Atlantic University | BS Data Science and Analytics *(05/2021 - 05/2025)
 Florida International University Center for the Advancement of Teaching<br>
 - Support university-wide faculty development on inclusive, evidence-based and student-centered teaching<br>
 - Assist in program coordination and instructional resource development to enhance educational effectiveness across disciplines<br>
-- Engage in institutional efforts to improve learning outcomes and promote a culture of teaching excellencez<br>
+- Engage in institutional efforts to improve learning outcomes and promote a culture of teaching excellence<br>
 
 **Biostatistics & Data Science Researcher** *(05/2024 - 06/2024)*<br>
 NIH Summer Institute in Biostatistics and Data Science<br>
