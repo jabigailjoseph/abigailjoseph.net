@@ -26,7 +26,7 @@ Even if you don't meet the requirements perfectly, or even barely when it comes 
 **1. Negative commuter student mentality** <br>
 One of my biggest mistakes in undergrad was what I like to think about it 'negative commuter student mentality'. Living off campus can really make it difficult to be fully immersed in the college experience, and as a result, many valuable opportunities can pass commuter students by. But the solution is to make an effort to truly be involved, even if it's difficult or inconvenient. I didn't put in that effort because I didn't really know any better, and by the time I did, I felt it was too late. As an introvert, home was the place where I could be by myself and escape social anxiety and the general mental burden of college life. As a result, I would be really quick to head home and I loathed staying on campus for several hours after my last class of the day ended, just to attend an extracurricular that was barely two hours long. My education and career path is turning out much better than expected, but even so, I feel like I missed out on valuable things like leadership opportunities, professional development conferences, and networking opportunities because I wasn't as involved on campus as I should have been. <br><br>
 
-### What I'm doing differently this time around
+### What I'm doing differently this time
 
 **1. Documenting my journey** <br>
 Looking back, there were several cool and interesting things I accomplished or participated in in undergrad that I barely have any documentation of. There's only so much we can say to communicate our achievements in job interviews. It helps immensely to have a record of everything you've done; after all, actions do speak louder than words.
