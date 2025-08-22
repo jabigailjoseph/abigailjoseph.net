@@ -57,4 +57,7 @@ _Abigail_
 **References** 
 1. [teachable (Merriam-Webster)](https://www.merriam-webster.com/dictionary/teachable) <br>
 2. [Mathophobia](https://eric.ed.gov/?id=EJ091232) <br>
-3. [Quote by Lao Tzu](https://www.goodreads.com/quotes/8203490-watch-your-thoughts-they-become-your-words-watch-your-words) <br><br>
+3. [Quote by Lao Tzu](https://www.goodreads.com/quotes/8203490-watch-your-thoughts-they-become-your-words-watch-your-words) <br>
+
+**Resources**
+1. [Conquering the Math Monster: Overcoming Mathophobia](https://medium.com/@bhavyasharmafeb/conquering-the-math-monster-overcoming-mathophobia-18ad0dee05cd) <br><br>
