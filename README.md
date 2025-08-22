@@ -2,6 +2,6 @@ This site is based on the [jekyll-TeXT-theme](https://github.com/kitian616/jekyl
 
 View the site: <br>
 
-[abigailjoseph.com](https://abigailjoseph.netlify.app/)
+[abigailjoseph.net](https://abigailjoseph.net/)
 
 ***
