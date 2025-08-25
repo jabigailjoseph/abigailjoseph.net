@@ -26,6 +26,12 @@ titles:
 key: page-about
 ---
 
+<p align="center">
+  <img src="/assets/IMG_6032.jpg" width="250" alt="My headshot">
+</p>
+
+---
+
 Abigail Joseph is a data analyst and aspiring biostatistician. She completed her [Bachelor of Science in Data Science and Anaytics](https://www.fau.edu/engineering/eecs/undergraduate/data-science-and-analytics/) with a [minor in Artificial Intelligence](https://www.fau.edu/engineering/eecs/graduate/minor/artificial-intelligence/) at Florida Atlantic University, and she is currently earning her [Master of Public Health in Biostatistics](https://stempel.fiu.edu/academics/public-health/disciplines/biostatistics/masters-of-public-health-with-a-concentration-in-biostatistics/) at Florida International University.
 
 Abigail is a current researcher in the [FIU-CGR Genomic scholarship](https://fiu.academicworks.com/opportunities/20716) research training program. She also serves as a Graduate Assistant at [FIU's Center for the Advancement of Teaching](https://cat.fiu.edu/about-us/index.html).

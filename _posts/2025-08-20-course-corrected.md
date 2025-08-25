@@ -1,6 +1,6 @@
 ---
 title: Course Corrected
-tags: ["grad school", "mindset"]
+tags: ["grad school", "education", "mindset"]
 ---
 
 <br>_Things I did wrong, and what I'll be doing right._ <br>
@@ -28,7 +28,7 @@ One of my biggest mistakes in undergrad was what I like to think about it 'negat
 
 ### What I'm doing differently this time
 
-**1. Documenting my journey** <br>
+**1. Documenting my journey** 
 Looking back, there were several cool and interesting things I accomplished or participated in in undergrad that I barely have any documentation of. There's only so much we can say to communicate our achievements in job interviews. It helps immensely to have a record of everything you've done; after all, actions do speak louder than words.
 From now on, I'll be making full use of things like my LinkedIn, my website, and any other platform I can think of that can be used to document my professional achievements. Not only will this be useful in the job search process, but I want to be able to look back an everything I've done.
 
