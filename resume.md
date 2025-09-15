@@ -24,7 +24,9 @@ Florida Atlantic University | BS Data Science and Analytics *(05/2021 - 05/2025)
 **FIU-CGR Genomic Research Scholar** *(08/2025 - present)*<br>Florida International University Center for Genomic Research<br>
 - Awarded a competitive research scholarship to support training in genomic research<br>
 - Committed to 8 hours weekly conducting research under faculty supervision<br>
-- Receive structured mentorship on doctoral applications, scientific communication, and responsible research practices<br>
+- Conducting literature review on eQTL-weighted methods and transcriptome-wide association studies (TWAS) for genetic analysis of Autism Spectrum Disorder (ASD) <br>
+- Designing a data analysis pipeline for GWAS and eQTL data to identify expression–trait associations using omnibus testing approaches <br>
+- Collaborating with other graduate researchers on data preprocessing, quality control, and integration of eQTL weights for TWAS analysis <br>
 
 **Graduate Assistantship** *(08/2025 - present)*<br>
 Florida International University Center for the Advancement of Teaching<br>
