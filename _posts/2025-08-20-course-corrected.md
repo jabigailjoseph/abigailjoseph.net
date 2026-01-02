@@ -7,7 +7,7 @@ tags: ["grad school", "education", "mindset"]
 
 --- 
 
-In a few days, I'll be beginning my master's program in biostatistics, as well as a graduate assistantship and a research training program. I'll also be moving to a new city and launching my personal website and blog. While it feels like I should find everything that will suddenly be on my plate in a few weeks very daunting, grad school feels like a new beginning, a chance to implement better habits and do things better than I did in the past.
+In a fewwww days, I'll be beginning my master's program in biostatistics, as well as a graduate assistantship and a research training program. I'll also be moving to a new city and launching my personal website and blog. While it feels like I should find everything that will suddenly be on my plate in a few weeks very daunting, grad school feels like a new beginning, a chance to implement better habits and do things better than I did in the past.
 
 In this blog post, I'll be reflecting on a few of the most valuable lessons I learned in undergrad, mistakes I made, and some of the things I plan to do differently. <br><br>
 
